@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "name": "Joystik",
+        "price": 1000,
+        "image": "/assets/images/djoystik.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Iphone",
+        "price": 1000,
+        "image": "/assets/images/Iphone.jpg"
+    }
+]

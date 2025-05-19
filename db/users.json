@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "shamsiddin",
+        "email": "xamroqulovsh7@gmail.com",
+        "password": "$2b$10$vKlGLYA61PATbKyNJj1wSOyKbul/0xzBeK.oOpr8PD0EzMqn0Zeqa",
+        "createdAt": "17.05.2025",
+        "updatedAt": null
+    },
+    {
+        "id": 2,
+        "username": "binali",
+        "email": "binali@gmail.com",
+        "password": "$2b$10$r709Wt1R8IqsR9lkjG43subf8e.Qc9Vx4yvEjOVIw65G0ACNTN1ze",
+        "createdAt": "17.05.2025",
+        "updatedAt": null
+    },
+    {
+        "id": 3,
+        "username": "ogabek",
+        "email": "ogabek@gmail.com",
+        "password": "$2b$10$.SvRuq4MAulGBAQVtx8Ggeusti7hR6S1GAGCFo1Y3JNo7WN75tBVO",
+        "createdAt": "17.05.2025",
+        "updatedAt": null
+    }
+]
