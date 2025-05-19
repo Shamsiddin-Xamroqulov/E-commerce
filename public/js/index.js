@@ -76,7 +76,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         const data = await res.json();
-        alert("Buyurtma muvaffaqiyatli qo‘shildi, orderId: " + data.orderId);
         window.location.reload()
       } catch (error) {
         alert("Buyurtma qo‘shishda xatolik yuz berdi: " + error.message);

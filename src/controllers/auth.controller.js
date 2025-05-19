@@ -8,7 +8,7 @@ class AuthController {
     this.register = async (req, res) => {
       try {
         let user = req.body;
-        let validate = validator.validate(user, { abortEarly: true });
+        let validate = userValidator.validate(user, { abortEarly: true });
         if (validate.error) throw new ClientError(validate.error.message, 400);
         let allUsers = await req.readFile("users");
         if (allUsers.some((item) => item.email == user.email))
